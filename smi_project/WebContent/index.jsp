@@ -8,6 +8,5 @@
 </head>
 <body>
 	웰컴 웰컴 웰컴~~~~
-	syso
 </body>
 </html>
